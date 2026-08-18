@@ -4,3 +4,7 @@ acerca de la educacion financiera en un ambiente que ellos conozcan, en este cas
 usa codigo de condicion y accion, en donde se pueden dibujar los sprites del juego debido a que gdevelop tambien utiliza la herramienta piskel para diseñar 
 los sprites de los personajes o de los escenarios
 link para el videojuego: https://gd.games/games/36330ebc-0b63-41ea-8cfd-03b81130a5e3
+<img width="1151" height="811" alt="image" src="https://github.com/user-attachments/assets/a3d80ee7-0b36-4f33-82f2-ba1ff43ddddf" />
+<img width="1147" height="747" alt="image" src="https://github.com/user-attachments/assets/572ca8b8-2ac5-4e04-bb50-8f0011546844" />
+
+
