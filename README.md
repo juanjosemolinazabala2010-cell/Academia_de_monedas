@@ -6,5 +6,11 @@ los sprites de los personajes o de los escenarios
 link para el videojuego: https://gd.games/games/36330ebc-0b63-41ea-8cfd-03b81130a5e3
 <img width="1151" height="811" alt="image" src="https://github.com/user-attachments/assets/a3d80ee7-0b36-4f33-82f2-ba1ff43ddddf" />
 <img width="1147" height="747" alt="image" src="https://github.com/user-attachments/assets/572ca8b8-2ac5-4e04-bb50-8f0011546844" />
+<img width="1011" height="652" alt="image" src="https://github.com/user-attachments/assets/7a52a1b4-29f7-442d-bd94-8004bfd5e4fb" />
+<img width="1065" height="662" alt="image" src="https://github.com/user-attachments/assets/e61fd393-7710-4713-8a35-448994f153d6" />
+<img width="1052" height="642" alt="image" src="https://github.com/user-attachments/assets/0b42ac0a-17aa-41f1-bf64-c7cf431bd86d" />
+
+
+
 
 
